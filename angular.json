@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "redux-store"
+    }
+  },
+  "defaultProject": "redux-store",
+  "cli": {
+    "analytics": "18d56fe6-74b8-4cc1-a49a-a0c08dfa4b11"
+  }
 }
